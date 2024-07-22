@@ -1,1 +1,1 @@
-kamiloid = 1
+kamiloid = 10
